@@ -1,12 +1,19 @@
-# React + Vite
+# Chat App con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación de mensajería instantánea construida con React y Firebase. Esta app permite a los usuarios enviar y recibir mensajes en tiempo real.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Autenticación con Google.
+- Chat en tiempo real entre usuarios.
+- Interfaz intuitiva y fácil de usar.
+- Historial de mensajes.
 
-## Expanding the ESLint configuration
+## Capturas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/b9d647fc-4d20-4b06-ab34-3350f3af990a)
+
+![image](https://github.com/user-attachments/assets/c8e8aacf-6256-4136-a49e-f35ffcbcc2e3)
+
+![image](https://github.com/user-attachments/assets/8f481f71-7d33-40bf-832d-d11fe6a8fa1f)
+
